@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <h2>hellow</h2>
+      <h2>hellow word</h2>
     </>
   );
 }
